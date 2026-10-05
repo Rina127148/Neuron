@@ -1,0 +1,10 @@
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.csproj.AssemblyReference.cache
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.Properties.Resources.resources
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.csproj.GenerateResource.cache
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.csproj.CoreCompileInputs.cache
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\bin\Debug\Pi_32_1_Nagoy_N1.exe.config
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\bin\Debug\Pi_32_1_Nagoy_N1.exe
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\bin\Debug\Pi_32_1_Nagoy_N1.pdb
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.FormMain.resources
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.exe
+Z:\Pi_32_1_Nagoy_N1\Pi_32_1_Nagoy_N1\obj\Debug\Pi_32_1_Nagoy_N1.pdb
